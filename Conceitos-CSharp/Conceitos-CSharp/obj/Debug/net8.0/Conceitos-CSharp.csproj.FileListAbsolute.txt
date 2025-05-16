@@ -12,3 +12,4 @@ C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp
 C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.pdb
 C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.genruntimeconfig.cache
 C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\ref\Conceitos-CSharp.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\Conceitos-CSharp\Conceitos-CSharp\obj\Debug\net8.0\Conceitos-CSharp.sourcelink.json

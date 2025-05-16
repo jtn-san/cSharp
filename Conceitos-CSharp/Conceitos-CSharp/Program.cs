@@ -29,3 +29,28 @@ var boleana = true;
 Console.WriteLine("Nome: " + nome);
 Console.WriteLine($"Nome: {nome}"); // Interpola
 Console.WriteLine($"Idade: {idade}");
+
+double media, numero1, numero2;
+
+Console.WriteLine("Digite a primeira nota: ");
+numero1 = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("Digite a segunda nota: ");
+numero2 = Convert.ToDouble(Console.ReadLine());
+
+media = (numero1 + numero2)/2;
+
+Console.WriteLine($"A média do aluno é: {media}");
+
+    if (media >= 5){
+    Console.WriteLine("Parabéns, você foi aprovado!");
+} else {
+    Console.WriteLine("Infelizmente, você foi reprovado.");
+}
+
+    
+
+
+//Console.WriteLine("Digite sua profissão: ");
+//profissao = Console.ReadLine();
+//Console.WriteLine("");
