@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\bin\Debug\net8.0\CadastroAlunosConsole.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\bin\Debug\net8.0\CadastroAlunosConsole.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\bin\Debug\net8.0\CadastroAlunosConsole.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\bin\Debug\net8.0\CadastroAlunosConsole.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\bin\Debug\net8.0\CadastroAlunosConsole.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\refint\CadastroAlunosConsole.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\CadastroAlunosConsole.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projeto01\CadastroAlunosConsole\CadastroAlunosConsole\obj\Debug\net8.0\ref\CadastroAlunosConsole.dll
