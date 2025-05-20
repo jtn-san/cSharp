@@ -1,4 +1,5 @@
 ﻿using CadastroAlunosConsole.Controller;
+using CadastroAlunosConsole.Models;
 
 namespace CadastroAlunosConsole.Views
 {
@@ -22,13 +23,14 @@ namespace CadastroAlunosConsole.Views
 
                 switch (opcao)
                 {
-                    case 1: CadastrarAluno();break;
-                    //case 2: ListarAluno();
-                    //    break;
-                    //case 3: AtualizarAluno();
-                    //    break;
-                    //case 4: ExcluirAluno();
-                    //    break;
+                    case 1: CadastrarAluno(); 
+                        break;
+                    case 2: ListarAluno();
+                        break;
+                        //case 3: AtualizarAluno();
+                        //    break;
+                        //case 4: ExcluirAluno();
+                        //    break;
 
                 }
                 Console.WriteLine("\nPressione 'Enter' para continuar... ");
@@ -51,10 +53,17 @@ namespace CadastroAlunosConsole.Views
             controller.CadastrarAluno(nome, cpf, curso, data);
             Console.WriteLine("Aluno cadastrado com sucesso!");
         }
-        //private void ListarAluno()
-        //{
+        private void ListarAluno()
+        {
+            List<Aluno> alunos = controller.ListarAlunos();
+            Console.WriteLine("\n Lista de alunos cadastrados ==== ");
+            foreach (var aluno in alunos)
+            {
+                Console.WriteLine($"ID: {aluno.Id} | Nome: {aluno.Nome} | CPF: {aluno.CPF} | Curso: {aluno.Curso} | Data de nascimento: {aluno.DataNascimento}");
+            }
 
-        //}
+
+        }
         //private void AtualizarAluno()
         //{
 
