@@ -23,12 +23,15 @@ namespace CadastroAlunosConsole.Views
 
                 switch (opcao)
                 {
-                    case 1: CadastrarAluno(); 
+                    case 1:
+                        CadastrarAluno();
                         break;
-                    case 2: ListarAluno();
+                    case 2:
+                        ListarAluno();
                         break;
-                        //case 3: AtualizarAluno();
-                        //    break;
+                    case 3:
+                        AtualizarAluno();
+                        break;
                         //case 4: ExcluirAluno();
                         //    break;
 
@@ -61,18 +64,31 @@ namespace CadastroAlunosConsole.Views
             {
                 Console.WriteLine($"ID: {aluno.Id} | Nome: {aluno.Nome} | CPF: {aluno.CPF} | Curso: {aluno.Curso} | Data de nascimento: {aluno.DataNascimento}");
             }
+                    public void AtualizarAluno()
+        {
+            Console.WriteLine("Novo nome: ");
+            string nome = Console.ReadLine();
+           
+            Console.WriteLine("Novo CPF: ");
+            string cpf = Console.ReadLine();
 
+            Console.WriteLine("Novo Curso: ");
+            string curso = Console.ReadLine();
 
+            Console.WriteLine("Data de nascimento: (dd/mm/aaaa)");
+            DateTime data = DateTime.Parse(Console.ReadLine());
         }
-        //private void AtualizarAluno()
-        //{
 
-        //}
-        //private void ExcluirAluno()
-        //{
-
-        //}
     }
+    //private void AtualizarAluno()
+    //{
+
+    //}
+    //private void ExcluirAluno()
+    //{
+
+    //}
+}
 }
 
 
