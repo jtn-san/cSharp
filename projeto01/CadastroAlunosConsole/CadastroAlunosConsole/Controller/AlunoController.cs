@@ -37,6 +37,8 @@ namespace CadastroAlunosConsole.Controller
             aluno.DataNascimento = dataNascimento; 
             return true;
         }
+
+
     }
 }
 
