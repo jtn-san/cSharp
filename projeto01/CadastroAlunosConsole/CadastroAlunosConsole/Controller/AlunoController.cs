@@ -38,6 +38,23 @@ namespace CadastroAlunosConsole.Controller
             return true;
         }
 
+        public bool ExcluirAluno(int id)
+        {
+            Aluno aluno = alunos.Find(a => a.Id == id);
+
+            if (aluno != null)
+            {
+                Console.WriteLine($"Deseja realmente excluir o aluno {aluno.Nome}? (s/n)");
+                string resposta = Console.ReadLine();
+
+                if (resposta?.ToLower() == "s")
+                {
+                    return alunos.Remove(aluno);
+                }
+            }
+
+            return false;
+        }
 
     }
 }
