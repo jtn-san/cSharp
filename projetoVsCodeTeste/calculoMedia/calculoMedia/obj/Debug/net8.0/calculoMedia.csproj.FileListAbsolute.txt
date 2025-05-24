@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\bin\Debug\net8.0\calculoMedia.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\bin\Debug\net8.0\calculoMedia.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\bin\Debug\net8.0\calculoMedia.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\bin\Debug\net8.0\calculoMedia.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\bin\Debug\net8.0\calculoMedia.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\refint\calculoMedia.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\calculoMedia.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\calculoMedia\obj\Debug\net8.0\ref\calculoMedia.dll

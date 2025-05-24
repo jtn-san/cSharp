@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\bin\Debug\net8.0\AprovadoReprovado.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\bin\Debug\net8.0\AprovadoReprovado.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\bin\Debug\net8.0\AprovadoReprovado.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\bin\Debug\net8.0\AprovadoReprovado.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\bin\Debug\net8.0\AprovadoReprovado.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\refint\AprovadoReprovado.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\AprovadoReprovado.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\AprovadoReprovado\AprovadoReprovado\obj\Debug\net8.0\ref\AprovadoReprovado.dll

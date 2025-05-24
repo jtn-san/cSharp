@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\ParOuImpar\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll
