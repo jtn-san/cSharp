@@ -1,7 +1,7 @@
 # Aulas e Projetos C#.NET
 
 
-  ![Preview](docs/capa_c#.jpg)
+  ![Preview](docs/capa_cSharp.jpg)
 
 
 Um repositório para compartilhar aulas e projetos da linguagem C#.
