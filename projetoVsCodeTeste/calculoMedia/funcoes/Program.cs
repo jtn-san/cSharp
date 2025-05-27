@@ -30,6 +30,6 @@ bool EhPar(int numero)
 
 double CalcularMedia(double n1, double n2)
 {
-    Console.WriteLine((n1+n2)/2);
+    Console.WriteLine(((n1+n2)/2).ToString("F"));
     return (n1 + n2) / 2;
 }
