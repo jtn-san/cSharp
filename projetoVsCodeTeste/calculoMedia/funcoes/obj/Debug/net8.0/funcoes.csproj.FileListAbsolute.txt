@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\bin\Debug\net8.0\funcoes.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\bin\Debug\net8.0\funcoes.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\bin\Debug\net8.0\funcoes.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\bin\Debug\net8.0\funcoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\bin\Debug\net8.0\funcoes.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\refint\funcoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\funcoes.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\funcoes\obj\Debug\net8.0\ref\funcoes.dll

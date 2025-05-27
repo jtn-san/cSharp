@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\bin\Debug\net8.0\medalhasV2.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\bin\Debug\net8.0\medalhasV2.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\bin\Debug\net8.0\medalhasV2.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\bin\Debug\net8.0\medalhasV2.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\bin\Debug\net8.0\medalhasV2.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\refint\medalhasV2.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\medalhasV2.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\medalhasV2\obj\Debug\net8.0\ref\medalhasV2.dll

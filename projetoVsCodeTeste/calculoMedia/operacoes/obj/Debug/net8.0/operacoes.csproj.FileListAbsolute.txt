@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\bin\Debug\net8.0\operacoes.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\bin\Debug\net8.0\operacoes.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\bin\Debug\net8.0\operacoes.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\bin\Debug\net8.0\operacoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\bin\Debug\net8.0\operacoes.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\refint\operacoes.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\operacoes.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\operacoes\obj\Debug\net8.0\ref\operacoes.dll

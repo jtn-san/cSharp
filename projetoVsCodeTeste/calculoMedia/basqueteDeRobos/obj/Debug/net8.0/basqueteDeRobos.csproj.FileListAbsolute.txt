@@ -1,0 +1,15 @@
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\bin\Debug\net8.0\basqueteDeRobos.exe
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\bin\Debug\net8.0\basqueteDeRobos.deps.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\bin\Debug\net8.0\basqueteDeRobos.runtimeconfig.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\bin\Debug\net8.0\basqueteDeRobos.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\bin\Debug\net8.0\basqueteDeRobos.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.AssemblyInfoInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.AssemblyInfo.cs
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.sourcelink.json
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\refint\basqueteDeRobos.dll
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.pdb
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\basqueteDeRobos.genruntimeconfig.cache
+C:\Users\jonathan.ssantos22\OneDrive - SENAC - SP\Área de Trabalho\aulas\CSharp\projetoVsCodeTeste\calculoMedia\basqueteDeRobos\obj\Debug\net8.0\ref\basqueteDeRobos.dll
